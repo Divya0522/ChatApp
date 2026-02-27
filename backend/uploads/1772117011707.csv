@@ -1,0 +1,8 @@
+Case ID,Date,Complaint,Severity,Status
+RHC-2026-0016,25/2/2026,Divya had a lot of frutration,medium,RESOLVED
+RHC-2026-0015,25/2/2026,Im getting frustration,critical,RESOLVED
+RHC-2026-0010,24/2/2026,headache,medium,RESOLVED
+RHC-2026-0007,23/2/2026,Stomach Pain,medium,DIAGNOSED
+RHC-2026-0006,23/2/2026,High Fever,high,followup
+RHC-2026-0004,22/2/2026,Routine blood pressure checkup,low,reviewed
+RHC-2026-0001,22/2/2026,Severe headache and dizziness for 3 days,high,reviewed
